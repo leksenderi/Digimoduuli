@@ -1,6 +1,6 @@
 class pakettimoduuli {
 
-        package { brackets
+        package { brackets:
                 ensure => 'installed',
                 allowcdrom => 'true',
         }
