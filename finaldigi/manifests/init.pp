@@ -10,5 +10,4 @@ class pakettimoduuli {
                 allowcdrom => 'true',
 	}
 	
-	mod 'maestrodev-wget', '1.7.3'
 }
